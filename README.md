@@ -1,1 +1,1 @@
-# DSCI552-MLDS
+# Homework Assignments for DSCI552-MLDS
